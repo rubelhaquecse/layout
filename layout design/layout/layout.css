@@ -1,0 +1,57 @@
+.div1{
+    border: 1px solid black;
+    width: 99%;
+    height: 80px;
+}
+
+.div2{
+    border: 1px solid black;
+    width: 20%;
+    height: 500px;
+    float:left;
+
+}
+.div3{
+    border: 1px solid black;
+    width: 79%;
+    height: 500px;
+   float: left;
+  
+}
+
+.div4{
+    border: 1px solid black;
+    width: 99%;
+    height: 80px;
+    margin-top: 500px;
+}
+.div3 .menu{
+    border: 1px solid black;
+    width: 70%;
+    height: 80px;
+   float: left;
+   margin-top: 20px;
+   margin-left: 15%;
+}
+
+.div3 .name1{
+    border: 1px solid black;
+    width: 42%;
+    height: 300px;
+   float: left;
+   margin-top: 20px;
+   margin-left: 5%;
+}
+
+.div3 .name2{
+    border: 1px solid black;
+    width: 42%;
+    height: 300px;
+   float: left;
+   margin-top: 20px;
+   margin-left: 5%;
+
+}
+
+
+  
